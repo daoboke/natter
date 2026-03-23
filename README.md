@@ -1,4 +1,3 @@
-# natter
 from https://github.com/MikeWang000000/Natter
 
 运行bash run.sh即可，
